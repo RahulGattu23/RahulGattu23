@@ -8,7 +8,7 @@
 
 - 📊 Experienced in implementing test-driven development (TDD) using JUnit, and proficient in DevOps practices with hands-on experience in tools like GitHub Actions and Jenkins.
 
-- I’m interested in picking up modern technologies such Kubernetes (K8s), data streaming services like Apache Kafka, Machine Learning.
+- I’m interested in picking up modern technologies; data orchestrations tools such as Kubernetes (K8s), data streaming services like Apache Kafka, Machine Learning.
 
 - 📫 You can reach out to me on LinkedIn. Here is the link:
       https://www.linkedin.com/in/rahul-gattu
